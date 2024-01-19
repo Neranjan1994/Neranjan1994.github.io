@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sanjaya Herath"
+title                    : "Neranjan Marasinghe"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sanjaya Herath"
@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sanjaya Herath"
-  avatar           : "/assets/images/bio-photo.png"
-  bio              : "Electrical and Computer Engineering graduate student at University of College Park, Maryland and Trainee Electrical Engineer at Naval Research Labaratory."
-  location         : "College Park, MD, USA"
-  email            : #"slh.1995@gmail.com"
+  name             : "Neranjan Marasinghe"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Graduate student in Mathematics at Texas Tech University, Texas"
+  location         : "Lubbock, TX, USA"
+  email            : #"udithamm1994@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:slh.1995@gmail.com"
+      url: "mailto:udithamm1994@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
