@@ -13,3 +13,7 @@ header:
 -   Fall 2023: Calculus I<br />
 
 -    Summer 2023: Higher Mathematics for Engineers and Scientists.  <br />
+
+-	Spring 2023: Calculus II
+
+-	Fall 2022: Trigonometry
