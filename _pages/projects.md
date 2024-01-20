@@ -1,5 +1,5 @@
 title: Teaching
-permalink: /teaching/
+permalink: /projects/
 classes: wide
 header:
     overlay_image: "/assets/images/overley-image.jpg"
