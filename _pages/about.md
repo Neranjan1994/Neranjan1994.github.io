@@ -29,9 +29,4 @@ My research interests are on signal processing and machine learning. Read more a
 
 ### A bit about myself 
 
-<figure style="width: 25%" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/seminar.jpg" alt="">
-  <figcaption>volunteering at a workshop</figcaption>
-</figure> 
-
 
