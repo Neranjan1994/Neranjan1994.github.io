@@ -8,6 +8,6 @@ header:
 ---
 ### At Texas Tech University
 
-- **Spring 2024: Calculus I**
-- **Fall 2023: Calculus I**
-- **Summer 2023: Higher Mathematics for Engineers and Scientists**
+- Spring 2024: Calculus I
+- Fall 2023: Calculus I
+- Summer 2023: Higher Mathematics for Engineers and Scientists
