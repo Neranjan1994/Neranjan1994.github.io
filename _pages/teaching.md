@@ -20,4 +20,4 @@ header:
 -	Fall 2022: Trigonometry
 
 
-### At University of Peradeniya
+### At University of Peradeniya, Sri Lanka
