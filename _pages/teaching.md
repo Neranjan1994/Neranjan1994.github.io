@@ -14,7 +14,7 @@ header:
 -   Fall 2023: Calculus I<br />
 
 -    Summer 2023: Higher Mathematics for Engineers and Scientists.  <br />
-	Lecture recordings of this course can be found from this <font color="red">[link](https://www.youtube.com/playlist?list=PLTZv4jL4go4S0VJdLFm0p4qdiPkFiqj9N)
+	Lecture recordings of this course can be found from this [link](https://www.youtube.com/playlist?list=PLTZv4jL4go4S0VJdLFm0p4qdiPkFiqj9N)
 -	Spring 2023: Calculus II
 
 -	Fall 2022: Trigonometry
