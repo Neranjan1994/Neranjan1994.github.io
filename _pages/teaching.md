@@ -9,12 +9,12 @@ header:
 ###  At Texas Tech University
 
 
--   Spring 2024: Calculus I <br />
+-   Spring 2024: MATH 1451 Calculus I <br />
 
--   Fall 2023: Calculus I<br />
+-   Fall 2023: MATH 1451 Calculus I<br />
 
--    Summer 2023: Higher Mathematics for Engineers and Scientists.  <br />   <span style="color: blue;">The lecture recordings can be found </span>  <a href="https://www.youtube.com/playlist?list=PLTZv4jL4go4S0VJdLFm0p4qdiPkFiqj9N" style="color: red;">here</a>.
-
+-    Summer 2023: <a href="https://www.youtube.com/playlist?list=PLTZv4jL4go4S0VJdLFm0p4qdiPkFiqj9N" style="color: red;">MATH 3350</a>.
+ Higher Mathematics for Engineers and Scientists.  <br />     
 -    Spring 2023: Calculus II
 
 -	Fall 2022: Trigonometry
