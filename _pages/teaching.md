@@ -13,7 +13,7 @@ header:
 
 -   Fall 2023: MATH 1451 Calculus I<br />
 
--   Summer 2023: MATH 3350 Higher Mathematics for Engineers and Scientists 
+-   [Summer 2023](https://www.youtube.com/playlist?list=PLTZv4jL4go4S0VJdLFm0p4qdiPkFiqj9N): MATH 3350 Higher Mathematics for Engineers and Scientists 
  
 -    Spring 2023: MATH 1452 Calculus II
 
