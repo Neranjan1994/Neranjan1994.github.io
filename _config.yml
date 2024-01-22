@@ -143,7 +143,8 @@ keep_files:
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
+plugins:
+  - jekyll-mathjax-2
 
 # Conversion
 markdown: kramdown
@@ -254,5 +255,4 @@ defaults:
       author_profile: true
 
 
-      plugins:
-  - jekyll-mathjax-2
+      
