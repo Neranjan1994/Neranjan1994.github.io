@@ -8,10 +8,10 @@ header:
 ---
 
 
-I am a PhD student in Mathematics at Texas Tech University. My research areas are Complex Analysis, Symmetrization and Potential Theory. 
+I am a PhD student in Mathematics at Texas Tech University. And also, I am working as a Graduate Part time Instructor at the Department of Mathematics and Statistics.
 ### About my research
 
-My research interests are on signal processing and machine learning. Read more about my research [here](/research/).
+My research interests are Complex Analysis, Potential Theory and Symmetrization. Read more about my research [here](/research/).
 
 ### Education
 
