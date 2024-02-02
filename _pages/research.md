@@ -1,3 +1,5 @@
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 ---
 title: Research
 permalink: /research/
@@ -23,4 +25,4 @@ Problem: Prove or disprove that among all n-gon (n is greater than 4)  having a 
 My advisor, Dr. Solynin had proved that among all the n-gons, the regular n-gon maximized the conformal radius and minimizes the logarithmic capacity. However, the problem is still open for Torsional Rigidity and Fundamental Frequency. 
 
 
-
+$u = mx^2$
